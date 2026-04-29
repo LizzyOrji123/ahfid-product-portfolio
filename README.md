@@ -1,5 +1,4 @@
-**
-🛠️ AHFID Internal Product Hub**
+🛠️ AHFID Internal Product Hub
 ### Product Management & Lifecycle Tracking
 
 !(https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1280&h=400&auto=format&fit=crop)
@@ -26,9 +25,13 @@ To keep our **Project Board** organized, please use the following label logic wh
 ## 📂 Directory Structure
 Keep the file structure flat and accessible:
 ahfid-product-portfolio/
+
 ├── docs/                 # Strategy, Research, and Meeting Notes
+
 ├── requirements/         # Product Requirement Documents (PRDs)
+
 ├── assets/               # Wireframes, Prototypes, and Logos
+
 └── README.md             # This Dashboard
 
 ---
